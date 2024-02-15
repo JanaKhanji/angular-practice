@@ -1,5 +1,5 @@
-# RHU Angular Workshop
-This Project was a two hours workshop at the Rafik Harrir University.
+# Angular Workshop
+This Project was a two-hour workshop for universities.
 
 
 Some Notes from the session: 
